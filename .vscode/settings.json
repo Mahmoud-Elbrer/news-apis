@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 18 ,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.words": [
+      "fileuploader",
+      "otps",
+      "sequelize",
+      "setex"
+    ]
+}

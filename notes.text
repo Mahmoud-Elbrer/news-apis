@@ -1,0 +1,38 @@
+###  command to run redis
+redis-server
+brew services start redis
+redis-cli 
+
+# to stop redis
+brew services stop redis
+
+# to check redis connection
+redis-cli ping
+or 
+ping
+
+
+
+
+
+mysql -u root -p 
+mama1212$Hart
+use newsDB ;
+// make create a new database copy queries.sql
+exit;
+npm run sequelize 
+
+SHOW SCHEMAS;  
+SHOW DATABASES;   
+
+
+
+
+
+
+git commit -m'comments routes added'
+git add .    
+git commit -m'comments routes added'
+git push
+
+nodemon app.js 
